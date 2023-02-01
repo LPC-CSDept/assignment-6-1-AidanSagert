@@ -5,7 +5,7 @@ using namespace std;
 int main ()
 {
     int checking;
-    unsigned int miles ;
+    unsigned int miles;
     long days;
 
     checking = -20;
